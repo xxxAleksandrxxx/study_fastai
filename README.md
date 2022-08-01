@@ -1,2 +1,1 @@
-'''
-it's all about study ML at fastai
+This repo is for study ML at fastai
